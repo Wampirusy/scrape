@@ -1,0 +1,17 @@
+{
+  "name": "anthony/scrape",
+  "authors": [
+    {
+      "name": "Anthony",
+      "email": "wampirusy@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Scrape\\": "lib/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
